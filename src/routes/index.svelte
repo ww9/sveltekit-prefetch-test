@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Home</h1>
+<p>Hovering the blog link with your mouse pointer for the first time shoould preload /blog but it isn't. See network/all tab in browser devtools.</p>
